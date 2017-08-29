@@ -1,0 +1,3 @@
+rootProject.name = 'EListItemProject'
+
+include ':app'
