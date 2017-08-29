@@ -150,7 +150,7 @@ export default class EListItemProject extends Component {
                   onItemClick={(itemData) => { console.log(itemData) }}
                   onSearchMoreClick={() => { console.log("onSearchMoreClick()") }} />
               default:
-                return <Text>未知类型</Text>
+                return <Text>未知类型a</Text>
             }
 
           }
